@@ -8,3 +8,7 @@ if(op == 1):
     print('vou inserir')
 elif(op == 2):
     print('listar')
+elif(op == 3):
+    print('atualizar')
+else:
+    print('opcao errada')
